@@ -1,5 +1,8 @@
 
-
+#### A quick look at the project
+```
+https://www.youtube.com/watch?v=vw3hZuLkZ20
+```
 
 ### Run locally
 
@@ -27,7 +30,4 @@ npm install
 serverless deploy --stage dev
 ```
 
-#### A quick look at the project
-```
-https://www.youtube.com/watch?v=vw3hZuLkZ20
-```
+
